@@ -1,0 +1,3 @@
+rootProject.name = 'backend-interview'
+include 'json-manipulation'
+include 'mystery-duplicates'

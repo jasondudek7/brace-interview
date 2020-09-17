@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0-interview.brace.1",
+  "uuid": "7ef18d19-714f-4be1-921f-af1015b355a1",
+  "lastModified": 1554999866,
+  "title": "Elderflowers",
+  "author": "Wilhelm Raabe",
+  "translator": "Michael Wooff",
+  "language": "English",
+  "textArray": [
+    {
+      "id": 3,
+      "textdata": "It was a clear, cold day in January. The sun was shining and packed snow crackled underfoot as people went past while the wheels of carts made a shrill, squealing sound as they turned. The weather was healthy and invigorating and I filled my lungs once more with a deep breath before ringing, at three o'clock in the afternoon, the doorbell of one of the stateliest mansions in one of the stateliest streets in the town."
+    },
+    {
+      "id": 1,
+      "textdata": "All this has nothing to do, of course, with the observations that follow. I merely want to show, by means of an example, what a wonderful thing the human soul is. Not without good reasons have I entitled these personal memoirs \"Elderflowers\". The reader will presently appreciate just what an influence Syringa vulgaris has had on me."
+    },
+    {
+      "id": 5,
+      "textdata": "I knew what I was doing when I strove to take with me as much human warmth as I possibly could into that elegant home. And yet nobody was lying inside critically ill and there was no corpse there. My scalpel would be superfluous and I would not even need to make out a prescription."
+    }
+  ]
+}

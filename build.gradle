@@ -1,0 +1,43 @@
+plugins {
+    id 'application'
+}
+
+group 'ai.brace'
+version '1.0-SNAPSHOT'
+
+wrapper {
+    gradleVersion = '6.0'
+}
+
+project(':json-manipulation') {
+    apply plugin: 'application'
+
+    application {
+        mainClassName = "ai.brace.Main"
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        implementation("com.google.code.gson:gson:2.8.5") {
+            because 'Gson is threadsafe and its builder pattern is supperior to all others.'
+        }
+    }
+}
+
+project(':mystery-duplicates') {
+    apply plugin: 'application'
+
+    application {
+        mainClassName = "ai.brace.EmployeeProcessor"
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+    }
+}
